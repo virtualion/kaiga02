@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black-footed Penguin
+* source:	https://sketchfab.com/3d-models/black-footed-penguin-b10454cd501d4d7187842f471de153b7
+* author:	Innovation Studio (https://sketchfab.com/cmp_innovation_studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black-footed Penguin" (https://sketchfab.com/3d-models/black-footed-penguin-b10454cd501d4d7187842f471de153b7) by Innovation Studio (https://sketchfab.com/cmp_innovation_studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

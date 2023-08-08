@@ -1,0 +1,14 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+4	./Images/ohara/gureko.png	0,45,237	1,0,0	0,1,0	0,0,1	-6.254446	-17.9685	0.2	1.604	Metal	-1:-1	3
+5	./Images/ohara/suiyoku.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	-73.87579	-18	0.2	0.442	Wooden	-1:-1	4
+7	./Images/ohara/wara_ohara.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	-24.93588	-18	0.2	1.63	WoodenWhite	-1:-1	6
+8	./Images/ohara/wara2.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	-3.900253	-18	0.2	1.63	WoodenWhite	-1:-1	7
+9	./Images/ohara/wara3.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	17.34951	-17.937	0.2	1.63	WoodenWhite	-1:-1	8
+10	./Images/ohara/wara4.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	38.65559	-18	0.2	1.63	WoodenWhite	-1:-1	9
+11	./Images/ohara/wara5.jpg	-58.5,45,120	0,0,1	0,1,0	-1,0,0	59.98901	-18	0.2	1.63	WoodenWhite	-1:-1	10
+12	./Images/ohara/Edmond-Franois-Aman-Jean-Festival-of-Venice-MeisterDrucke-7157-1.jpg	58.5,45,120	0,0,-1	0,1,0	1,0,0	-1.58763	-10.31401	0.2	8.6	MetalGold	-1:-1	11
+13	./Images/ohara/el1.png	0,45,237	1,0,0	0,1,0	0,0,1	12.13399	-17.811	0.2	1	none(caption)	-1:-1	12
+14	./Images/ohara/ha1.png	-58.5,45,120	0,0,1	0,1,0	-1,0,0	-42.01181	-18	0.2	1	none(caption)	-1:-1	13
+15	./Images/ohara/ba1.png	-58.5,45,120	0,0,1	0,1,0	-1,0,0	-73.93489	-24.5835	0.2	1	none(caption)	-1:-1	14
+16	./Images/ohara/ve1.png	58.5,45,120	0,0,-1	0,1,0	1,0,0	67.77451	-18	0.2	1	none(caption)	-1:-1	15
+17	./Images/ohara/vv.png	29.53691,31.84,14.96585	-0.8370434,0,-0.5471365	0,1,0	0.5471365,0,-0.8370434	0.8265789	-4.493498	0.2	2	none(caption)	1:3	17

@@ -1,0 +1,10 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+5	./Images/shimane_shogakko/cap01.png	-58.5,45,70	0,0,1	0,1,0	-1,0,0	-12.05395	-18.6615	0.2	2	none(caption)	-1:-1	4
+6	./Images/shimane_shogakko/cap02.png	-58.5,45,70	0,0,1	0,1,0	-1,0,0	50.14907	-17.84251	0.2	2	none(caption)	-1:-1	5
+7	./Images/shimane_shogakko/cap03.png	0,45,138.25	1,0,0	0,1,0	0,0,1	-18.7886	-18	0.2	1	none(caption)	-1:-1	6
+8	./Images/shimane_shogakko/cap04.png	0,45,138.25	1,0,0	0,1,0	0,0,1	25.72331	-18	0.2	1	none(caption)	-1:-1	7
+9	./Images/shimane_shogakko/sayaka002.jpg	-58.5,45,70	0,0,1	0,1,0	-1,0,0	-31.61823	-18.0945	0.2	1.4	Wooden_thin	-1:-1	8
+10	./Images/shimane_shogakko/img0033.jpg	-58.5,45,70	0,0,1	0,1,0	-1,0,0	18.57573	-18	0.2	2	MetalGold	-1:-1	9
+11	./Images/shimane_shogakko/sayakaimg015.jpg	0,45,138.25	1,0,0	0,1,0	0,0,1	11.41843	-18	0.2	1	Metal	-1:-1	10
+12	./Images/shimane_shogakko/sayaka001.jpg	0,45,138.25	1,0,0	0,1,0	0,0,1	-35.8062	-17.9685	0.2	2	Wooden_thin	-1:-1	11
+13	./Images/shimane_shogakko/cap05.png	24.75535,19.104,83.67377	0.4725514,0,-0.8813032	0,1,0	0.8813032,0,0.4725514	-1.149368	-1.050002	0.2	4	Wooden_thin	2:1	14

@@ -1,0 +1,5 @@
+title	uniqueCode	path	targetPos
+ba1|https://www.ohara.or.jp/collection_detail/?product_id=73	14	/images/ba1.png	-56.3,20.4165,46.06511
+ha1|https://www.ohara.or.jp/collection_detail/?product_id=37	13	/images/ha1.png	-56.3,27,77.98819
+el1|https://www.ohara.or.jp/collection_detail/?product_id=1	12	/images/el1.png	12.13399,27,234.8
+ve1|https://www.ohara.or.jp/collection_detail/?product_id=19	15	/images/ve1.png	56.3,27,52.22549
